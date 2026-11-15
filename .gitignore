@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Логи и системный мусор
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store
