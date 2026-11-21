@@ -40,8 +40,6 @@ venv\Scripts\pip install -r requirements.txt
 start.cmd
 ```
 
-> ⚠️ Сейчас в `requirements.txt` указан `pywebio`, хотя приложение использует **Flask**. Для корректной установки: `venv\Scripts\pip install flask`.
-
 ## 🌐 Доступ
 
 Сервер слушает `0.0.0.0:5000`, поэтому открыть панель можно с любого устройства в сети:
