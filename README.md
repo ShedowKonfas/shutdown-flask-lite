@@ -1,6 +1,5 @@
 # ⏻ Пульт питания ПК
 
-Минимальная версия пульта на Flask: только **выключение** и **перезагрузка** компьютера. Ветка `shutdown-reboot-only` — без голосового ассистента, клавиатуры и прочего.
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.1-000000?logo=flask&logoColor=white)
